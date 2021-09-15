@@ -3,3 +3,7 @@
 video
 yolov4.weights
 data
+segmentation.ipynb
+imgproc.py
+day-out.avi
+night-out.avi
